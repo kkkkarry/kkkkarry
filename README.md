@@ -49,10 +49,8 @@ Leveraging multimodal models and diagrammatic reasoning for high-quality, logic-
 ---
 
 ### 📊 GitHub Stats 
-
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=kkkkarry&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=777" alt="kkkkarry's GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkarry&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=777" alt="Top Langs" height="180" /> </p>
-
 <img src="https://github.com/kkkkarry/kkkkarry/blob/master/github-metrics.svg" />
+<!-- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=kkkkarry&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=777" alt="kkkkarry's GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkarry&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=777" alt="Top Langs" height="180" /> </p> -->
 
 ---
 
@@ -60,3 +58,9 @@ Leveraging multimodal models and diagrammatic reasoning for high-quality, logic-
 
 - **Email**: iffkarry@gmail.com or yanrui.wu@stu.xjtu.edu.cn
 - **Google Scholar**: https://scholar.google.com/citations?user=BY5poBUAAAAJ
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kkkkarry&label=Profile%20views&color=45A1FF&style=flat" alt="Views" />
+</p>
