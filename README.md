@@ -45,3 +45,18 @@ Leveraging multimodal models and diagrammatic reasoning for high-quality, logic-
 **🤖 Languages & AI Research** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=flat) 
 
 **🌐Full-Stack Development** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.dot.js&logoColor=white) ![SpringBoot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+
+---
+
+### 📊 GitHub Stats 
+
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=kkkkarry&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=777" alt="kkkkarry's GitHub stats" height="180" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkarry&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=777" alt="Top Langs" height="180" /> </p>
+
+<img src="https://github.com/kkkkarry/kkkkarry/blob/master/github-metrics.svg" />
+
+---
+
+### 📫 How to reach me
+
+- **Email**: iffkarry@gmail.com or yanrui.wu@stu.xjtu.edu.cn
+- **Google Scholar**: https://scholar.google.com/citations?user=BY5poBUAAAAJ
